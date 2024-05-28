@@ -1,3 +1,3 @@
-# [Lab8 Link](https://NirvekPanda.github.io/Lab8-Starter/)
+# [Lab 8 Link](https://nirvekpanda.github.io/cse110-lab8/)
 
 Graceful degradation involves designing an application to function on the most advanced technology while maintaining usability when features degrade due to limitations in older browsers or devices. Service workes enable features such as offline capabilities, caching, and background sync, which help maintain the core functionality and performance of the application even when network conditions are poor or when users are offline. By leveraging service workers, developers can ensure that their applications provide fallback to promote user accessibility experience regardless of the user's connectivity status.
